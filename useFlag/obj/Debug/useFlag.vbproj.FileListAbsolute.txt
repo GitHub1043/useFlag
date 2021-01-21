@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\useFlag\useFlag\bin\Debug\useFlag.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\useFlag\useFlag\bin\Debug\useFlag.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\useFlag\useFlag\bin\Debug\useFlag.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\useFlag\useFlag\bin\Debug\useFlag.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\useFlag\useFlag\obj\Debug\useFlag.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\useFlag\useFlag\obj\Debug\useFlag.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\useFlag\useFlag\obj\Debug\useFlag.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\useFlag\useFlag\obj\Debug\useFlag.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\useFlag\useFlag\obj\Debug\useFlag.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\useFlag\useFlag\obj\Debug\useFlag.pdb
